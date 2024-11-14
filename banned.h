@@ -1,4 +1,3 @@
-``cpp
 #ifndef _BANNED_DIRECTORY
 // make sure to change your banned directory
 #define _BANNED_DIRECTORY "banned.bin"
@@ -99,4 +98,3 @@ namespace utility
 	};
 }
 #endif // !_BANNED_METHOD_H_
-``
